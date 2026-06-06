@@ -22,7 +22,7 @@
 📍 **Location:** Thane, Maharashtra, India  
 📚 **Currently Learning:** NIST AI RMF | EU AI Act | ISO 42001 | GDPR  
 💼 **Available For:** Freelance AI Audits | Risk Consulting | Bias Reporting  
-📧 **Contact:** [goud71250@gmail.com]  
+📧 **Contact:** [santoshgaudai108@gmail.com]  
 
 > *"AI systems must be fair, transparent, and accountable — I help organizations build and validate exactly that."*
 

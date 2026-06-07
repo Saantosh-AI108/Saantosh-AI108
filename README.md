@@ -55,7 +55,7 @@
 
 | # | Project | Description | Key Metric | Status |
 |---|---------|-------------|------------|--------|
-| 🧑‍💼 | [**Hiring Bias Audit**](#) | Gender bias detection in recruitment AI model | SPD, DI (80% Rule) | ✅ Complete |
+| 🧑‍💼 | [**Hiring Bias Audit**](https://github.com/Saantosh-AI108/hiring-bias-audit) | Gender bias detection in recruitment AI model | SPD, DI (80% Rule) | ✅ Complete |
 | 💳 | [**Credit Scoring Fairness**](#) | Loan approval fairness — ECOA compliance check | EOD, Reweighing | ✅ Complete |
 | 🏥 | [**Healthcare AI Risk Register**](#) | Bias audit in patient prioritization system | AOD, SHAP | ✅ Complete |
 | 📊 | [**ESG Responsible AI Pipeline**](#) | AI scoring for sustainable investment decisions | Theil Index, LIME | ✅ Complete |
@@ -100,8 +100,7 @@ debiasing_methods = ["Reweighing", "Disparate Impact Remover",
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR_PROFILE)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoshgaudai108@gmail.com)
 
 </div>
 

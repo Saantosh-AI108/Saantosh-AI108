@@ -57,7 +57,7 @@
 |---|---------|-------------|------------|--------|
 | 🧑‍💼 | [**Hiring Bias Audit**](https://github.com/Saantosh-AI108/hiring-bias-audit) | Gender bias detection in recruitment AI model | SPD, DI (80% Rule) | ✅ Complete |
 | 💳 | [**Credit Scoring Fairness**](https://github.com/Saantosh-AI108/credit-scoring-fairness) | Loan approval fairness — ECOA compliance check | EOD, Reweighing | ✅ Complete |
-| 🏥 | [**Healthcare AI Risk Register**](#) | Bias audit in patient prioritization system | AOD, SHAP | ✅ Complete |
+| 🏥 | [**Healthcare AI Risk Register**](https://github.com/Saantosh-AI108/healthcare-ai-risk) | Bias audit in patient prioritization system | AOD, SHAP | ✅ Complete |
 | 📊 | [**ESG Responsible AI Pipeline**](#) | AI scoring for sustainable investment decisions | Theil Index, LIME | ✅ Complete |
 | 📋 | [**Enterprise Risk Register Template**](#) | Reusable AI Risk Register (Likelihood × Impact grid) | ISO 42001 aligned | ✅ Complete |
 
